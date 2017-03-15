@@ -1,0 +1,19 @@
+div.left_text {
+  float:left;
+  width: 30%;
+
+}
+
+div.right_text {
+  float:right;
+  width:70%;
+}
+
+body {
+  background-color: ;
+}
+
+img {
+  float: right;
+  width:25%;
+}
