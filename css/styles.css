@@ -1,12 +1,14 @@
 div.left_text {
   float:left;
   width: 30%;
+  font-size: 20px;
 
 }
 
 div.right_text {
   float:right;
   width:70%;
+  font-size: 20px;
 }
 
 body {
